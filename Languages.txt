@@ -13,4 +13,6 @@ Hindi
 
 Tamil
 Bengali
+telugu
+malayalam
 

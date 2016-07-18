@@ -1,0 +1,11 @@
+finishing up htaccess
+
+
+301 redirection
+
+content security policy
+cache busting
+custom error pages
+cache headers
+
+ 

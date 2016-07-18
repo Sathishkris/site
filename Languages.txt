@@ -9,4 +9,5 @@ romanian
 Indonesian, javanese
 german
 Italian
+Hindi
 
